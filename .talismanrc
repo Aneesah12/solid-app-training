@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 26843da2f2a032bb9a057bc94455a7e96eafb0b298b5c645a2e828d36c197781
+- filename: src/originalCode/pages/Animal.tsx
+  checksum: c1d5264fb94173f85ab6d90dd9847c094b10ef9f095dd7a66b9f909b9a746ed3
+- filename: src/originalCode/things/InputBox.tsx
+  checksum: 53228e212594f35fbce3d016f168654f150893e6e1f299665ac2edea34fbf3a9
+- filename: src/originalCode/thumbnail/ThumbnailWrong.tsx
+  checksum: d259985de64cd1573967c05b82f31a478dad11043f5d98103c86f4683e58fe11
+- filename: src/react-app-env.d.ts
+  checksum: f0045b3f8905880e17671222a920193a34a64f59b0d5fe52d8829b8da70e50dd
+version: "1.0"
