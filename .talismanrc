@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: package-lock.json
-  checksum: d2ac588a03303a519b66af5cbbcd33f77a4ee9df5c9a47b65ada463c743bc05f
+  checksum: 26843da2f2a032bb9a057bc94455a7e96eafb0b298b5c645a2e828d36c197781
 - filename: src/originalCode/pages/Animal.tsx
   checksum: c1d5264fb94173f85ab6d90dd9847c094b10ef9f095dd7a66b9f909b9a746ed3
 - filename: src/originalCode/things/InputBox.tsx
