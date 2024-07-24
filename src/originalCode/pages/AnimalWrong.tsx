@@ -26,8 +26,6 @@ const AnimalList = ({ animals }: Props) => {
             {animals.map(animal => {
                 if ('coverUrl' in animal) {
                     return <ThumbnailWrong dog={animal} />
-                } else {
-                    return <ThumbnailWrong cat={}/>
                 }
             })}
         </ul>
